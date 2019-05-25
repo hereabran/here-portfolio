@@ -1,0 +1,4 @@
+tandingin.com
+
+self project ini sengaja saya buat karna permintaan teman saya yang ingin membuat sebuah sistem registrasi di sektor pertandingan silat, latar belakang dibuatnya sistem tandingin.com adalah banyaknya kertas yang terbuang dan diserak dimana-mana karna semua sistem registrasi, presensi, pangumuman, klasifikasi, dan ploting kontingen memakai kertas! lebih dari 100 kontingen terdaftar pada kejuaraan YKTC tahun 2018 lalu dimana ada lebih dari 3000 total peserta dari masing-masing kontingen! sangat mubazir, ditambah lagi sistem tulis tangan dan grouping dokumen yang membuat ini semakin rumit, dengan di buatnya sistem informasi kejuaraan silat tandingin.com maka semua kendala seperti publikasi, dokumentasi, informasi, dan registrasi bisa dilakukan langsung dari 1 platform!
+tetapi teman saya menghilang entah kenapa disaat saya sedang bersemangat membuatnya, dan akhirnya project ini di pending dulu...
